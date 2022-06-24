@@ -14,7 +14,7 @@ router.get('/:id', (req, res) => {
   Product.findOne();
 });
 
-//product.update to update
+//my note - product.update to update
 
 
 
