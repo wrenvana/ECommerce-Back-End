@@ -21,7 +21,7 @@ Download the repository from GitHub and use your command line program of choice.
 ## Usage
 Type "node server.js" into your command line program once you have navigated to the program's directory.
 
-(TODO: Add video here.)
+[Demo Video](Demo.webm)
 
 ----------------------------------------------------------------
 ## Contributors
