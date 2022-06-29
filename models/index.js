@@ -3,7 +3,7 @@ const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
-const { belongsToMany } = require('./Product');
+// const { belongsToMany } = require('./Product');
 
 // Products belongsTo Category
   Product.belongsTo(Category, {
